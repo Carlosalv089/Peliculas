@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="peli1">Big Hero 6</string>
+    <string name="peli2">1917</string>
+    <string name="peli3">Men in Black</string>
+    <string name="peli4">Toy Story</string>
+    <string name="peli5">Dr. Who</string>
+
+    <string name="peli1_desc">When a devastating event befalls the city of San Fransokyo and catapults Hiro into the midst of danger, he turns to Baymax and his close friends adrenaline junkie Go Go Tomago, neatnik Wasabi, chemistry whiz Honey Lemon and fanboy Fred. Determined to uncover the mystery, Hiro transforms his friends into a band of high-tech heroes called Big Hero 6</string>
+    <string name="peli2_desc">British trenches somewhere in France. World war has been going on for the third year, heroic illusions have dissipated; general mood - boredom and fatigue. Stuff the belly, sleep, return home to Christmas Eve. On another quiet day, when nothing happens, two young soldiers, Blake and Schofield, are summoned to the general, who instructs them to send an important message to Colonel MacKenzie in the Second Devonshire Battalion, whose telephone connection was cut off by the enemy.</string>
+    <string name="peli3_desc">Based off of the comic book. Unbeknownst to other people, there is a private agency code named MiB. This agency is some kind of extra terrestrial surveillance corporation. Then, one of the agencys finest men only going by the name K(Tommy Lee Jones) , is recruiting for a new addition to the agency. He has chosen James Edwards (Will Smith) of the N.Y.P.D. Then, one day, a flying saucer crashes into Earth. This was an alien a part of the Bug race. He takes the body of a farmer (Vincent DOnofrio) and heads to New York. stop the bug before it can escape with the galaxy.</string>
+    <string name="peli4_desc">Toy Story is about the secret life of toys when people are not around. When Buzz Lightyear, a space-ranger, takes Woodys place as Andys favorite toy, Woody doesnt like the situation and gets into a fight with Buzz. Accidentaly Buzz falls out the window and Woody is accused by all the other toys of having killed him. He has to go out of the house to look for him so that they can both return to Andys room. But while on the outside they get into all kind of trouble while trying to get home.</string>
+    <string name="peli5_desc">Traveling across time and space, the immortal time-lord known as The Doctor travels across the universe with his many companions and his loyal shape-shifting space-ship: The TARDIS. The Doctor faces many threats across many generations: from The Daleks, The Cybermen and his time- lord adversary The Master to the sinister Davros, creator of The Daleks.</string>
+</resources>
